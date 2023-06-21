@@ -28,7 +28,7 @@
     "is-color": "1.0.2",
     "open": "6.4.0",
     "ps-node": "0.1.6",
-    "semver": "6.3.0",
+    "semver": "7.5.2",
     "socket.io": "2.3.0"
   },
   "devDependencies": {
